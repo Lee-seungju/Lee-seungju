@@ -18,9 +18,9 @@ get_next_line - done
 
 ft_printf - done
 
-pipex - 🔨
+pipex - done
 
-so_long
+so_long - 🔨
 
 push_swap
 <!--
