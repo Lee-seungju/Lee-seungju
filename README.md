@@ -20,9 +20,9 @@ ft_printf - done
 
 pipex - done
 
-so_long - 🔨
+so_long - done
 
-push_swap
+push_swap - 🔨
 <!--
 **Lee-seungju/Lee-seungju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
