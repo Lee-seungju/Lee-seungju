@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungju3578@gmail.com)](mailto:seungju3578@gmail.com)
 
-# 42 Seoul
+# 42 cursus
 [![slee2's 42 stats](https://badge42.herokuapp.com/api/stats/slee2?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 
