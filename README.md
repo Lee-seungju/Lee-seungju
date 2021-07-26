@@ -7,7 +7,7 @@
 
 
 # My Git Status
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lee-seungju)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lee-seungju&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Lee-seungju/Lee-seungju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
