@@ -9,20 +9,6 @@
 # My Git Status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lee-seungju)](https://github.com/anuraghazra/github-readme-stats)
 
-
-# 🔨Editing due to norm-v3🔨
-
-Libft - done
-
-get_next_line - done
-
-ft_printf - done
-
-pipex - done
-
-so_long - done
-
-push_swap - 🔨
 <!--
 **Lee-seungju/Lee-seungju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
