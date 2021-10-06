@@ -2,6 +2,7 @@
 
 <a href="https://companies.intra.42.fr/users/87024/resumes/5671" target="_blank"><img src="https://img.shields.io/badge/-42Seoul-000000?style=for-the-badge&logo=42&logoColor=FFFFFF"/></a>
 <a href="https://www.notion.so/afab4438e1914a85b95e33864877d85b?v=3b34da176faf42a0bcebd12f5ac69ea2" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/></a>
+<a href="https://www.facebook.com/people/%EC%9D%B4%EC%8A%B9%EC%A3%BC/100002673633503/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=FFFFFF"/></a>
 
 
 ### [My velog](https://velog.io/@seungju0000)
