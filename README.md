@@ -14,6 +14,10 @@
 <a target="_blank"><img src="https://img.shields.io/badge/-Eclipse IDE-FFFFFF?style=for-the-badge&logo=Eclipse IDE&logoColor=2C2255"/></a>
 
 
+# I'm learning this.
+
+<a target="_blank"><img src="https://img.shields.io/badge/-C-FFFFFF?style=for-the-badge&logo=C&logoColor=A8B9CC"/></a>
+
 
 # 42 cursus
 [![slee2's 42 stats](https://badge42.herokuapp.com/api/stats/slee2?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
