@@ -6,7 +6,6 @@
 <a href="https://www.facebook.com/people/%EC%9D%B4%EC%8A%B9%EC%A3%BC/100002673633503/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=FFFFFF"/></a> </br>
 
 <p align="center">
- 
 [My velog](https://velog.io/@seungju0000)
 </br>
 </br>
