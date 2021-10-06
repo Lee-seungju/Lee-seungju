@@ -1,9 +1,8 @@
-### Hi
+# My information
 
 <a href="https://companies.intra.42.fr/users/87024/resumes/5671" target="_blank"><img src="https://img.shields.io/badge/-42Seoul-000000?style=for-the-badge&logo=42&logoColor=FFFFFF"/></a>
 <a href="https://www.notion.so/afab4438e1914a85b95e33864877d85b?v=3b34da176faf42a0bcebd12f5ac69ea2" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/></a>
 
-### [My Record Notion](https://www.notion.so/afab4438e1914a85b95e33864877d85b?v=3b34da176faf42a0bcebd12f5ac69ea2)
 
 ### [My velog](https://velog.io/@seungju0000)
 
