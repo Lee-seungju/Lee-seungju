@@ -15,7 +15,8 @@
 <a target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/></a> &nbsp
 <a target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF"/></a> &nbsp
 <a target="_blank"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/></a>
-  
+  </br>
+</br>
 <h3 align="center"><b>🖥 Using 🖥</b></h3>
 <p align="center">
 <a target="_blank"><img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=Vim&logoColor=FFFFFF"/></a> &nbsp
@@ -23,7 +24,8 @@
 <a target="_blank"><img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFFFFF"/></a> &nbsp
 <a target="_blank"><img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=FFFFFF"/></a>
 
-
+</br>
+</br>
 
 
 
