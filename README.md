@@ -10,18 +10,18 @@
 
 # I'm using this
 
-<a target="_blank"><img src="https://img.shields.io/badge/-Vim-FFFFFF?style=for-the-badge&logo=Vim&logoColor=019733"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-VS Code-FFFFFF?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=IntelliJ IDEA&logoColor=000000"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-Eclipse IDE-FFFFFF?style=for-the-badge&logo=Eclipse IDE&logoColor=2C2255"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=Vim&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=FFFFFF"/></a>
 
 
 # I'm learning this.
 
-<a target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=C&logoColor=A8B9CC"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=C\+\+&logoColor=00599C"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=Java&logoColor=007396"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=Spring&logoColor=6DB33F"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/></a>
 
 
 
