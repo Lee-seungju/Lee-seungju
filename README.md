@@ -17,7 +17,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/></a>
   </br>
 </br>
-<h3 align="center"><b>🖥 Using 🖥</b></h3>
+<h3 align="center"><b>🛠 Tools 🛠</b></h3>
 <p align="center">
 <a target="_blank"><img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=Vim&logoColor=FFFFFF"/></a> &nbsp
 <a target="_blank"><img src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF"/></a> &nbsp
