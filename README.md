@@ -1,4 +1,4 @@
-<h3 align="center"><b>My information</b></h3>
+<h3 align="center"><b>Info</b></h3>
 
 <p align="center">
 <a href="https://companies.intra.42.fr/users/87024/resumes/5671" target="_blank"><img src="https://img.shields.io/badge/-42Seoul-000000?style=for-the-badge&logo=42&logoColor=FFFFFF"/></a> &nbsp
@@ -15,7 +15,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF"/></a> &nbsp
 <a target="_blank"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/></a>
   
-<h3 align="center"><b>Using</b></h3>
+<h3 align="center"><b>🖥 Using 🖥</b></h3>
 <p align="center">
 <a target="_blank"><img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=Vim&logoColor=FFFFFF"/></a> &nbsp
 <a target="_blank"><img src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF"/></a> &nbsp
