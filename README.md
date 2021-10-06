@@ -18,10 +18,10 @@
 
 # I'm learning this.
 
-<a target="_blank"><img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/></a>
 
 
 
