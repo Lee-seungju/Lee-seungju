@@ -17,7 +17,7 @@
 # I'm learning this.
 
 <a target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=C&logoColor=A8B9CC"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=C++&logoColor=00599C"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=Cpp&logoColor=00599C"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=C&logoColor=007396"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=Spring&logoColor=6DB33F"/></a>
 
