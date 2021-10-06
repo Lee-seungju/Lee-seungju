@@ -9,7 +9,7 @@
 # I'm using this
 
 <a target="_blank"><img src="https://img.shields.io/badge/-Vim-FFFFFF?style=for-the-badge&logo=Vim&logoColor=019733"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-VS Code-FFFFFF?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-VS Code-000000?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=IntelliJ IDEA&logoColor=000000"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-Eclipse IDE-FFFFFF?style=for-the-badge&logo=Eclipse IDE&logoColor=2C2255"/></a>
 
