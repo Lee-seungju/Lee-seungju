@@ -1,5 +1,7 @@
 ###
 
+[My Record](https://www.notion.so/afab4438e1914a85b95e33864877d85b?v=3b34da176faf42a0bcebd12f5ac69ea2)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungju3578@gmail.com)](mailto:seungju3578@gmail.com)
 
 # 42 cursus
