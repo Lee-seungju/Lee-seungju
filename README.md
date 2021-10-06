@@ -7,7 +7,8 @@
 
 <p align="center">
 [My velog](https://velog.io/@seungju0000)
-
+</br>
+</br>
 <h3 align="center"><b>🛠 Learning 🛠</b></h3>
 <p align="center">
 <a target="_blank"><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/></a> &nbsp
