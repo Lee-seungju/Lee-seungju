@@ -6,7 +6,7 @@
 
 # I'm using this
 
-https://img.shields.io/badge/-Vim-000000?style=flat&logo=Vim
+<a target="_blank"><img src="https://img.shields.io/badge/-Vim-000000?style=for-the-badge&logo=Vim&logoColor=FFFFFF"/></a>
 
 ### [My velog](https://velog.io/@seungju0000)
 
