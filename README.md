@@ -31,7 +31,7 @@
 
 
 # 42 cursus
-[![slee2's 42 stats](https://badge42.herokuapp.com/api/stats/slee2?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![slee2's 42 stats](https://badge42.herokuapp.com/api/stats/jimikim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 
 # My Git Status
