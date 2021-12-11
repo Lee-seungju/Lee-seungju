@@ -31,6 +31,17 @@
 # 42 cursus
 [![slee2's 42 stats](https://badge42.herokuapp.com/api/stats/slee2?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
+# BaekJoon
+<table>
+	<td valign="top" width="50%">
+		<img src="https://github-readme-stats.vercel.app/api?username=Lee-seungju&show_icons=true&count_private=true&hide_border=true" style="height: 150px"/>
+	</td>
+	<td valign="top" width="50%">
+		<a href="https://solved.ac/profile/seungju0000">
+		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seungju0000" style="height: 200px"/>
+	</td>
+</table>
+
 
 # My Git Status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lee-seungju&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
