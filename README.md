@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://companies.intra.42.fr/users/87024/resumes/5671" target="_blank"><img src="https://img.shields.io/badge/-42Seoul-000000?style=for-the-badge&logo=42&logoColor=FFFFFF"/></a> &nbsp
-<a href="https://github.com/Lee-seungju" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/></a> &nbsp
+<a href="https://impartial-goldfish-c9b.notion.site/4b0ab92f85ec49cd8f35ee0dec9dc9f0" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/></a> &nbsp
 <a href="https://www.facebook.com/people/%EC%9D%B4%EC%8A%B9%EC%A3%BC/100002673633503/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=FFFFFF"/></a> &nbsp
 <a href="https://velog.io/@seungju0000" target="_blank"><img src="https://img.shields.io/badge/-Velog-000000?style=for-the-badge&logo=V&logoColor=FFFFFF"/></a> </br>
 </br>
