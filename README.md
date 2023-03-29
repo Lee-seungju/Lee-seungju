@@ -29,7 +29,8 @@
 
 
 # 42 cursus
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/stats?cursusId=21&coalitionId=86" alt="slee2's 42 stats" /></a>
+<!-- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1n3gmlo014309lafi3qlgly/stats?cursusId=21&coalitionId=86" alt="slee2's 42 stats" /></a> -->
+End
 
 # BaekJoon
 <a href="https://solved.ac/profile/seungju0000">
